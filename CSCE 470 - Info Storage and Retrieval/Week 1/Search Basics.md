@@ -38,10 +38,10 @@ To reduce memory usage, the inverted index only stores if the term is included i
 
 ### Example
 
-**Any** $\rightarrow$ song2 $\rightarrow$ song3 $\rightarrow$ song4
-**believe** $\rightarrow$ song1 $\rightarrow$ song3
-**choose** $\rightarrow$ song1
-**love** $\rightarrow$ song1 $\rightarrow$ song2 
+**Any** $\rightarrow$ song2 $\rightarrow$ song3 $\rightarrow$ song4   
+**believe** $\rightarrow$ song1 $\rightarrow$ song3   
+**choose** $\rightarrow$ song1   
+**love** $\rightarrow$ song1 $\rightarrow$ song2    
 
 ### Summary: Boolean Retrieval
 Advantages  
