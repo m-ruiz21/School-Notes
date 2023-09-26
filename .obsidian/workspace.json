@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "75f0de108386afe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f56d37038034812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b191ad5253dc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 1/Search Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3521b10735744ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 1/Search Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c14e026285c61d2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aa9db1c2b5e7aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707fa6311e6e1160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20093af4d47028f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3658ac8da321a0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fa248ca8af36d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1788e9cad8efb825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f37d4bbdc16d0d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 1/Search Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63065b90ff66325f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 1/Search Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f07e1773e49035fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5b7ef5eae197dd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 1/Search Basics.md"
+              }
+            }
+          },
+          {
+            "id": "c1d906580f283b32",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "707fa6311e6e1160",
+  "lastOpenFiles": [
+    "Untitled",
+    "Untitled.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 1/Search Basics.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 1.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 1",
+    "CSCE 470 - Info Storage and Retrieval",
+    "School-Notes"
+  ]
+}
