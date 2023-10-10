@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9f56d37038034812",
+        "id": "c96c5b8ab4f109f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b191ad5253dc1d",
+            "id": "be4523f14bc1e8d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "02079269771deca6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TF-IDF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "3fa248ca8af36d1c",
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md"
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md"
               }
             }
           },
@@ -164,12 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8b191ad5253dc1d",
+  "active": "be4523f14bc1e8d0",
   "lastOpenFiles": [
-    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 04 - Better Indexing.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 4",
+    "CSCE 470 - Info Storage and Retrieval/Week 3/Class 07 - Ranking Functions.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 06 - Ranking.md",
     "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 1/Class 02 - Search Basics.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 04 - Better Indexing.md",
     "CSCE 470 - Info Storage and Retrieval/Week 1/Class 03 - Tokenization And More.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 1/Class 02 - Search Basics.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 4",
+    "CSCE 470 - Info Storage and Retrieval/Week 3",
     "CSCE 470 - Info Storage and Retrieval/Week 2",
     "Untitled 1",
     "W",

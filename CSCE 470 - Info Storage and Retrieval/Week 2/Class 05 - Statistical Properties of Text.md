@@ -12,3 +12,6 @@ Zipf's law states that the the $i$th most frequent term has a frequency proporti
 $$ \begin{aligned} cf_i \propto \frac{1}{i} \end{aligned} $$
 Where $cf_i$ is the collection frequency for the $i$th most frequent term. 
 
+> Essentially: "A few words happen a lot, and a lot of words show up very little"
+
+This is caused through a "Balance between the speaker's desire for a small vocabulary and the listeners desire for a large one".

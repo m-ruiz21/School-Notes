@@ -7,11 +7,11 @@ For Example:
 
 ### Implementation Idea: Bi-word index
 
-In a bi-word index, we're going to index every two words in our index, instead of two.
+Remember [[Class 02 - Search Basics#Inverted Index (TF-IDF)|Inverted Index]] from the previous class. 
+A bi-word index is going to work exactly like an TF-IDF index, except that instead of indexing every word, we're going to index every pair of words.
 
 You can also expand it to more words by using Boolean queries.
 So if I wanted to query "meet me at midnight" our query would be:  "meet me" AND "at midnight".
-
 #### Issues
 - Can create false positives - i.e. "at midnight I want her to meet me"
 	- Can be solved by 3 word index, 4 word index, etc.? But we can go infinitely long with this strategy!  
@@ -30,7 +30,8 @@ term 1: {
 
 #### Phrase Querying with a positional index
 When you query with a positional index, you not only check the existence, but the position as well.
-
+> Note: with this solution we are exchanging processing power for storage. 
+> This solution takes a lot more processing, but that the saving of 
 ## Proximity Queries
 
 Another bonus of the positional index is that it also allows you to run proximity queries, i.e. "word 1 near word 2", "word 1 within 6 words of word 3", etc.
@@ -76,8 +77,8 @@ britent spears $\leftrightarrow$ britney spears ?
 
 We need to find a way to rewrite these queries so we get actual query results.
 
-### One Approach: k-gram index
-The k-gram index is going to check how many overlapping characters the query and the index have. It can be measured by the formula:
+### One Approach: k-gram index / Jaccard Similarity
+The k-gram index is going to check how many overlapping characters the query and the index have. It can be measured by the Jaccard Similarity formula:
 $$ \begin{aligned} \frac{|A| \cap |B|}{|A| \cup |B|} \end{aligned} $$
 This can also be used for [[Class 04 - Better Indexing#Wildcard queries|wildcard queries]].
 

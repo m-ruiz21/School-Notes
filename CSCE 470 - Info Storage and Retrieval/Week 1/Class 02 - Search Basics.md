@@ -1,4 +1,24 @@
+## Basic Search Vocabulary
 
+### "Front-end" vocabulary
+- **Information need** - the users need for the information. i.e. A user wanting a throwback rap album.
+- **Query** - the users actual request for their information need. i.e. the Spotify search "GKMC Kendrick Lamar"
+- **Query Representation** - how we represent the query in our actual querying function. Could be a bunch of key words in a query, conditions for a filter, or even just the query string. 
+
+### "Back-end" vocabulary
+- **Comparison Function** - function that is going to assess the similarity / dissimilarity between two pieces of information.
+- **Documents** - the actual information being stored / queried.
+- **Document Representation** - How we represent the document in our index / storage. Could be a dictionary, relational database, NoSQL object, etc.
+- **Index** - how we store documents to eventually query.
+
+## Information Need
+Classic information retrieval (IR) is based around "information need".
+So, we need to identify what the user wants. Is the informational need:
+- **Informational**? Do I want to learn more about the subject?
+- **Transactional**? Do I want to buy something related to the subject?
+- **Navigational**? Do I want to find things related to the subject?
+
+## Querying
 At this point in the class, we decide that our store currently only supports Boolean queries and the queries will be run to search lyrics.
 
 >Example: karma, love OR song, Taylor AND Swift, Taylor AND (NOT Swift), etc.
@@ -7,7 +27,7 @@ Based on those results, we return the songs **as a set**
 
 First issue: how will we store / index our information?
 
-## Term-Document Incidence Matrix
+## Term-Document Incidence Matrix 
 
 A term-document incidence matrix is a matrix has the term as the key and the existence of the term in the document as the value.
 
