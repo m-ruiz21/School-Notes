@@ -37,7 +37,7 @@ Instead of doing this, we can **learn** a good ranking algorithm using Machine L
 Typically, we will rely on training data that has the correct outputs / known labels.
 Specifically we'll have the data split into a **training set** and a **test set**.
 
-## ML + Ranking
+## ML + Ranking Theory
 So, assume we have:
 - A benchmark document collection.
 - A benchmark suite of queries.
