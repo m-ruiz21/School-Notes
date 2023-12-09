@@ -19,4 +19,9 @@ Assumption we have a test collection of the following:
  - Docs (representative of our collection)
  - Queries (representative of what our users will / do ask)
  - Relevance judgements (can be expensive to collect and contain a lot of noise)
- - 
+
+## Types of Evaluations
+- Offline - Usually with a standard dataset or using historical interactions from a production system like google.
+- User Studies - Present search interface to a group of users (say 10-100), often in person or using a system like Amazon mechanical Turk. 
+- Online - typically requires access to a production system with existing users. 
+	- This might include something like A/B testing. 

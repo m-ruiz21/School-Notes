@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1496dc4b954422b6",
+        "id": "10368556bb9809a3",
         "type": "tabs",
         "children": [
           {
-            "id": "315e5e42d7cba62c",
+            "id": "ef9c34cbee2ba469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 1/Class 02 - Search Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6399b7d9d3230d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 5/Class 15- More ML Ranking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 200
   },
   "right": {
     "id": "3fa248ca8af36d1c",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 5/Class 15- More ML Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 5/Class 15- More ML Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md"
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 5/Class 15- More ML Ranking.md"
               }
             }
           },
@@ -143,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,19 +169,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "315e5e42d7cba62c",
+  "active": "707fa6311e6e1160",
   "lastOpenFiles": [
+    "CSCE 470 - Info Storage and Retrieval/Week 1/Class 02 - Search Basics.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 5/Class 15- More ML Ranking.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 5",
+    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 11 - Start ML Ranking.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 4/Pasted image 20231209162505.png",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 23 - Word2Vec+.md",
     "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
+    "Untitled 1.canvas",
+    "2023-12-09.md",
+    "Untitled.canvas",
+    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 9",
     "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
     "CSCE 470 - Info Storage and Retrieval/Week 3/Class 07 - Ranking Functions.md",
     "CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
-    "Untitled.md",
     "CSCE 470 - Info Storage and Retrieval/Week 4",
     "CSCE 470 - Info Storage and Retrieval/Week 2/Class 06 - Ranking.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 05 - Statistical Properties of Text.md",
     "CSCE 470 - Info Storage and Retrieval/Week 2/Class 04 - Better Indexing.md",
     "CSCE 470 - Info Storage and Retrieval/Week 1/Class 03 - Tokenization And More.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 1/Class 02 - Search Basics.md",
     "CSCE 470 - Info Storage and Retrieval/Week 4",
     "CSCE 470 - Info Storage and Retrieval/Week 3",
     "CSCE 470 - Info Storage and Retrieval/Week 2",
@@ -175,7 +197,6 @@
     "W",
     "CSCE 470 - Info Storage and Retrieval/Week 1.md",
     "CSCE 470 - Info Storage and Retrieval/Week 1",
-    "CSCE 470 - Info Storage and Retrieval",
-    "School-Notes"
+    "CSCE 470 - Info Storage and Retrieval"
   ]
 }
