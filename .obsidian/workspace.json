@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10368556bb9809a3",
+        "id": "fcad76af47abb9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "6399b7d9d3230d30",
+            "id": "52f460d30af5c520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md"
+                "file": "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md"
               }
             }
           },
@@ -156,22 +156,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6399b7d9d3230d30",
+  "active": "52f460d30af5c520",
   "lastOpenFiles": [
+    "Pasted image 20231210175342.png",
+    "CSCE 470 - Info Storage and Retrieval/Week 10/Class 27 - Advanced Rec Part 2.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 11",
+    "CSCE 470 - Info Storage and Retrieval/Week 10/Class 26 - Advanced Rec.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 24 - Ranking With Word Embeddings.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 23 - Word2Vec+.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 10",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165742.png",
+    "Pasted image 20231210170232.png",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165130.png",
+    "Paste.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
     "CSCE 470 - Info Storage and Retrieval/Week 6/Class 16 - Latent Factors.md",
     "CSCE 470 - Info Storage and Retrieval/Week 7/Class 18 - Matrix Factorization.md",
     "CSCE 470 - Info Storage and Retrieval/Week 7",
     "CSCE 470 - Info Storage and Retrieval/Week 6/Class 15 - Collab Filtering.md",
-    "Untitled.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
     "CSCE 470 - Info Storage and Retrieval/Week 4/Class 11 - Start ML Ranking.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
     "CSCE 470 - Info Storage and Retrieval/Week 5/Class 14 - Recommenders.md",
     "CSCE 470 - Info Storage and Retrieval/Week 6",
     "CSCE 470 - Info Storage and Retrieval/Week 5/Class 12- More ML Ranking.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 23 - Word2Vec+.md",
     "CSCE 470 - Info Storage and Retrieval/Week 8",
     "CSCE 470 - Info Storage and Retrieval/Week 3/Class 07 - Ranking Functions.md",
     "CSCE 470 - Info Storage and Retrieval/Week 2/Class 06 - Ranking.md",
@@ -188,9 +199,6 @@
     "CSCE 470 - Info Storage and Retrieval/Week 9",
     "CSCE 470 - Info Storage and Retrieval/Week 4",
     "CSCE 470 - Info Storage and Retrieval/Week 4",
-    "CSCE 470 - Info Storage and Retrieval/Week 3",
-    "CSCE 470 - Info Storage and Retrieval/Week 2",
-    "Untitled 1",
-    "CSCE 470 - Info Storage and Retrieval/Week 1.md"
+    "CSCE 470 - Info Storage and Retrieval/Week 3"
   ]
 }

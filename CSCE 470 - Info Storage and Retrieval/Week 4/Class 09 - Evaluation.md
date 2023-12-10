@@ -1,3 +1,4 @@
+How do we measure the effectiveness of [[Class 07 - Ranking Functions|our ranking functions \ mechanisms?]]
 ## Evaluating a Search Engine
 ### Measures for a Search Engine
 - How fast does it index.
@@ -18,7 +19,6 @@ Thus, it is easier for us to measure the **relevance** of the search results.
 	- Issues: crafting thousands of queries.
 - A binary assessment of "Relevant" and "Not Relevant" for each query and each document.
 	- Very human intensive task with large cost.
-
 
 ### Some evaluation measures
 
