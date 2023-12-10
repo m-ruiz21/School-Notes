@@ -19,7 +19,7 @@ So, we need to identify what the user wants. Is the informational need:
 - **Navigational**? Do I want to find things related to the subject?
 
 ## Querying
-At this point in the class, we decide that our store currently only supports Boolean queries and the queries will be run to search lyrics.
+Lets assume the store currently only supports Boolean queries and the queries will be run to search lyrics.
 
 >Example: karma, love OR song, Taylor AND Swift, Taylor AND (NOT Swift), etc.
 
