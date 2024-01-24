@@ -28,7 +28,7 @@ With more variables:
 $$P(A,B,C,D) = P(A) * P(B|A) * P(C|A,B)*P(D|A,B,C)$$
 
 The chain rule in general:
-$$P(x_1, x_2, x_3, ..., x_n) = \prod_i P(w_i|w_1, w_2, ... w_i-1)$$
+$$P(x_1, x_2, x_3, ..., x_n) = \prod_i P(w_i|w_1, w_2, ... w_{i-1})$$
 
 We can apply this chain rule to compute the joint probability of words in a sentence:
 

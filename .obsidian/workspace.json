@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
+                "file": "PHIL 489/Week 1/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
+                "file": "PHIL 489/Week 1/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
+                "file": "PHIL 489/Week 1/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md"
+                "file": "PHIL 489/Week 1/Day 1.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,21 +160,27 @@
   },
   "active": "7b0d21ba68c36c94",
   "lastOpenFiles": [
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 24 - Ranking With Word Embeddings.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 6/Class 16 - Latent Factors.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 6/Class 15 - Collab Filtering.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
+    "Pasted image 20240123103849.png",
+    "PHIL 489/Week 1/Day 1.md",
     "CSCE 470 - Info Storage and Retrieval/Week 11/Class 30 - Language Models.md",
+    "PHIL 489/Week 1",
+    "PHIL 489",
+    "ECEN 454 - Digital Circuit Design/Week 1",
+    "ECEN 454 - Digital Circuit Design",
+    "CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
     "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
     "CSCE 470 - Info Storage and Retrieval/Week 10/Class 27 - Advanced Rec Part 2.md",
     "CSCE 470 - Info Storage and Retrieval/Week 10/Class 26 - Advanced Rec.md",
     "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
     "CSCE 470 - Info Storage and Retrieval/Week 9/Class 23 - Word2Vec+.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 24 - Ranking With Word Embeddings.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165130.png",
+    "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 6/Class 16 - Latent Factors.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 6/Class 15 - Collab Filtering.md",
+    "CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
     "CSCE 470 - Info Storage and Retrieval/Week 11/Pasted image 20231210175342.png",
     "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165742.png",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165130.png",
     "CSCE 470 - Info Storage and Retrieval/Week 5/Class 14 - Recommenders.md",
     "CSCE 470 - Info Storage and Retrieval/Week 5/Class 13 - Learning To Rank.md",
     "CSCE 470 - Info Storage and Retrieval/Week 5/Class 12- More ML Ranking.md",
@@ -190,16 +198,11 @@
     "CSCE 470 - Info Storage and Retrieval/Week 11",
     "CSCE 470 - Info Storage and Retrieval/Week 10",
     "Pasted image 20231210170232.png",
-    "Paste.md",
     "CSCE 470 - Info Storage and Retrieval/Week 7",
     "CSCE 470 - Info Storage and Retrieval/Week 6",
     "CSCE 470 - Info Storage and Retrieval/Week 8",
-    "CSCE 470 - Info Storage and Retrieval/Week 5",
     "CSCE 470 - Info Storage and Retrieval/Week 4/Pasted image 20231209162505.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "CSCE 470 - Info Storage and Retrieval/Week 9",
-    "CSCE 470 - Info Storage and Retrieval/Week 4",
-    "CSCE 470 - Info Storage and Retrieval/Week 4"
+    "Untitled.canvas"
   ]
 }
