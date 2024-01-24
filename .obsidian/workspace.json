@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHIL 489/Week 1/Day 1.md",
+                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHIL 489/Week 1/Day 1.md",
+                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHIL 489/Week 1/Day 1.md",
+                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHIL 489/Week 1/Day 1.md"
+                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md"
               }
             }
           },
@@ -158,50 +158,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b0d21ba68c36c94",
+  "active": "707fa6311e6e1160",
   "lastOpenFiles": [
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture00-Images/Figure2-NMOS.png",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture00-Images/Figure1-Diode.png",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture00-Images",
+    "Untitled",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
+    "Lecture00-Figure1.md",
+    "SPRING 2024/PHIL 489/Week 1/Day 1.md",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Week 1/Class 01.md",
+    "SPRING 2024",
+    "Fall 2023",
+    "FALL 2024",
+    "ECEN 454",
     "Pasted image 20240123103849.png",
-    "PHIL 489/Week 1/Day 1.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 11/Class 30 - Language Models.md",
-    "PHIL 489/Week 1",
-    "PHIL 489",
-    "ECEN 454 - Digital Circuit Design/Week 1",
-    "ECEN 454 - Digital Circuit Design",
-    "CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
-    "CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 10/Class 27 - Advanced Rec Part 2.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 10/Class 26 - Advanced Rec.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 23 - Word2Vec+.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Class 24 - Ranking With Word Embeddings.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165130.png",
-    "CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 6/Class 16 - Latent Factors.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 6/Class 15 - Collab Filtering.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 11/Pasted image 20231210175342.png",
-    "CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165742.png",
-    "CSCE 470 - Info Storage and Retrieval/Week 5/Class 14 - Recommenders.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 5/Class 13 - Learning To Rank.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 5/Class 12- More ML Ranking.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 11 - Start ML Ranking.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 3/Class 07 - Ranking Functions.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 1/Class 03 - Tokenization And More.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 1/Class 02 - Search Basics.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 04 - Better Indexing.md",
-    "CSCE 470 - Info Storage and Retrieval/Week 12",
-    "CSCE 470 - Info Storage and Retrieval/Week 2/Class 06 - Ranking.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 30 - Language Models.md",
+    "SPRING 2024/PHIL 489/Week 1",
+    "SPRING 2024/PHIL 489",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Week 1",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 10/Class 27 - Advanced Rec Part 2.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 10/Class 26 - Advanced Rec.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Class 23 - Word2Vec+.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Class 24 - Ranking With Word Embeddings.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165130.png",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 6/Class 16 - Latent Factors.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 6/Class 15 - Collab Filtering.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Pasted image 20231210175342.png",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165742.png",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 14 - Recommenders.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 13 - Learning To Rank.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 12- More ML Ranking.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 11 - Start ML Ranking.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 3/Class 07 - Ranking Functions.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 1/Class 03 - Tokenization And More.md",
     "Pasted image 20231210180316.png",
-    "CSCE 470 - Info Storage and Retrieval/Week 11",
-    "CSCE 470 - Info Storage and Retrieval/Week 10",
     "Pasted image 20231210170232.png",
-    "CSCE 470 - Info Storage and Retrieval/Week 7",
-    "CSCE 470 - Info Storage and Retrieval/Week 6",
-    "CSCE 470 - Info Storage and Retrieval/Week 8",
-    "CSCE 470 - Info Storage and Retrieval/Week 4/Pasted image 20231209162505.png",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Pasted image 20231209162505.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
