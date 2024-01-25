@@ -1,4 +1,4 @@
-We can look at Technology as artifacts
+We can look at Technology as artifacts.
 ## Postphenomenology:
 Postphenomenology is *the investigation of global culture and technology or "artifacts".*
 
@@ -14,5 +14,5 @@ Technology provides quantitative data about the world, thus it is also important
 
 Epistemology *is the theory of knowledge.* It studies:
 - correspondence of our ideas with the world
-- coherence of ideas
+- the coherence of ideas (and their utility)
 
