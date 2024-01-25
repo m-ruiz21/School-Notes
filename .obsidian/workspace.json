@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
+                "file": "SPRING 2024/PHIL 489/Day 1 - Basics of Ethics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f331ac19b34d59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPRING 2024/PHIL 489/Day 2 - Technology and Ethics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
+                "file": "SPRING 2024/PHIL 489/Day 2 - Technology and Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
+                "file": "SPRING 2024/PHIL 489/Day 2 - Technology and Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md"
+                "file": "SPRING 2024/PHIL 489/Day 2 - Technology and Ethics.md"
               }
             }
           },
@@ -158,15 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "707fa6311e6e1160",
+  "active": "2f331ac19b34d59f",
   "lastOpenFiles": [
+    "SPRING 2024/PHIL 489/Day 1 - Basics of Ethics.md",
+    "SPRING 2024/PHIL 489/Day 2 - Technology and Ethics.md",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture00-Images/Figure2-NMOS.png",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture00-Images/Figure1-Diode.png",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture00-Images",
     "Untitled",
-    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
     "Lecture00-Figure1.md",
-    "SPRING 2024/PHIL 489/Week 1/Day 1.md",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Week 1/Class 01.md",
     "SPRING 2024",
     "Fall 2023",
