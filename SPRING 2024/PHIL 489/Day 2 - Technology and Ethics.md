@@ -16,3 +16,4 @@ Epistemology *is the theory of knowledge.* It studies:
 - correspondence of our ideas with the world
 - the coherence of ideas (and their utility)
 
+**One Good Exam Question:** How does technology affect our views on our virtues / virtue. What does courage look like today, how was it affected by technology? 
