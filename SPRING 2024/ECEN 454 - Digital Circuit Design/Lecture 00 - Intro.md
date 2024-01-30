@@ -14,7 +14,7 @@
 - A junction between p-type and n-type semiconductor forms a diode.
 - Current flows only in one direction.
 
-![Figure 1 - Diode](Figure1-Diode.png)
+![Figure 1 - Diode](Assets/Lecture00/Figure1-Diode.png)
 
 # nMOS Transistor
 
@@ -25,7 +25,7 @@
 	- $SiO_2$ (oxide) is a very good insulator.
 	- Called metal oxide semiconductor (MOS) (even though gate is no longer made by metal)
 
-![Figure 2 - nMOS Cross-section](Figure2-NMOS.png)
+![Figure 2 - nMOS Cross-section](Assets/Lecture00/Figure2-NMOS.png)
 
 ## Operation
 The Body is usually tied to ground (0V)
