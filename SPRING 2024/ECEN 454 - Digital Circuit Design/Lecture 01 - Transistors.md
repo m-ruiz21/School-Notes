@@ -25,14 +25,14 @@ CMOS transistors are used together to create logic gates - the foundation of log
 - Easiest to understand by viewing both top and cross-section of wafer in a simplified manufacturing process
 
 ## Detailed Masks Views:
-Six masks:
-- n-well
-- Polysilicon
+Six masks (from top to bottom):
+- n-well (body)
+- thin gate oxide
+- polysilicon
 - n+ diffusion
 - p+ diffusion
-- Contact
+- Contacts (to wire together devices if necessary)
 - Metal
-
 # Fabrication
 - Chips are build in huge factories called fabs
 - Contain clean rooms as large as football fields
