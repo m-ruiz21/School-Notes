@@ -40,6 +40,9 @@ Six masks (from top to bottom):
 # Layout
 - Chips are specified with a set of masks
 - Minimum dimensions of masks determine transistor size (and hence speed, cost, and power)
+	- the wider the channel, the more electrons can come through, the lower the resistance, the easier charge can move through, etc.
+	- the shorter (smallest length) the easier it is for electrons to move across the space.
+	- The dimensions are proportional to the mobility.
 - Feature size f = distance between source and drain
 	- Set by minimum width of polysilicon
 - Feature size improves 30% every 3 years or so
