@@ -19,9 +19,28 @@ The chapter concludes by inviting the reader to engage in a critical and constru
 # Chapter 2
 **Super intelligence, monsters, and the AI apocalypse**
 ****
+## Summary
+The chapter examines the popular and influential narratives of superintelligence, transhumanism, and the AI apocalypse, which envision a future where AI surpasses human intelligence and capabilities, and poses an existential threat to humanity. 
+The author traces the origins and influences of these narratives, which often draw on religious and philosophical concepts of transcendence, singularity, and eschatology. 
+The author also critiques these narratives, arguing that they are based on questionable assumptions, exaggerate the risks and benefits of AI, and distract from the more urgent and realistic ethical and social issues of AI. 
+The author suggests that we need to look beyond these narratives, and explore alternative ways of imagining and relating to AI, such as those found in other cultural and historical contexts.
+
+
+## Vocab
+**Superintelligence:** the idea that AI will eventually surpass human intelligence (GAI) and bring about a technological singularity.
+
+**Technological Singularity:**  the moment in human history when exponential technological progress would bring such a dramatic change that we can no longer comprehend them.
+
+**Transhumanism**: the idea that we need to enhance the human being: make it smarter, less vulnerable to disease, live longer, and potentially even immortal - thus leading to what Harari calls *Homo deus*: humans have been upgraded to gods.
+
+**The Frankenstein complex**: the fear of robots. 
+
+**Transcendence**: To be "above" and independent of the physical and "moral" world.
+
+**Immanence**: Taking a part of the physical and "moral" world.
+
 ## Notes
 The chapter begins by covering: *superintelligence* and *transhumanism.* 
-
 ### Superintelligence and the Singularity
 
 **Superintelligence** is the idea that AI will eventually surpass human intelligence (GAI) and bring about a technological singularity.
