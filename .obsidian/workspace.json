@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md"
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "1c80c4d82fada274",
   "lastOpenFiles": [
-    "SPRING 2024/PHIL 489/Lecture Notes/Day 3 - Going Over AI Ethics 2-6.md",
     "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
+    "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md",
+    "Untitled.md",
+    "SPRING 2024/PHIL 489/Lecture Notes/Day 3 - Going Over AI Ethics 2-6.md",
     "SPRING 2024/PHIL 489/Book Notes",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 02.md",
     "SPRING 2024/PHIL 489/Lecture Notes",
@@ -205,8 +207,6 @@
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 14 - Recommenders.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 13 - Learning To Rank.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 12- More ML Ranking.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 11 - Start ML Ranking.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
