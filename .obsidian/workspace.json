@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 01 - Transistors.md",
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 01 - Transistors.md",
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 01 - Transistors.md",
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 01 - Transistors.md"
+                "file": "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md"
               }
             }
           },
@@ -155,19 +155,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "707fa6311e6e1160",
+  "active": "1c80c4d82fada274",
   "lastOpenFiles": [
+    "SPRING 2024/PHIL 489/Lecture Notes/Day 3 - Going Over AI Ethics 2-6.md",
+    "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
+    "SPRING 2024/PHIL 489/Book Notes",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 02.md",
+    "SPRING 2024/PHIL 489/Lecture Notes",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture02/Figure02.png",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture02/Figure01.png",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture02/Figure0.png",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 00 - Intro.md",
+    "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture02",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 01 - Transistors.md",
-    "SPRING 2024/PHIL 489/Day 3 - Going Over AI Ethics 2-6.md",
-    "SPRING 2024/PHIL 489/Day 2 - Technology and Ethics.md",
+    "SPRING 2024/PHIL 489/Lecture Notes/Day 2 - Technology and Ethics.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 30 - Language Models.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
-    "SPRING 2024/PHIL 489/Day 1 - Basics of Ethics.md",
+    "SPRING 2024/PHIL 489/Lecture Notes/Day 1 - Basics of Ethics.md",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture01/Fig0-MosSwitches.png",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture01",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets",
@@ -180,10 +189,7 @@
     "SPRING 2024",
     "Fall 2023",
     "FALL 2024",
-    "ECEN 454",
     "Pasted image 20240123103849.png",
-    "SPRING 2024/PHIL 489/Week 1",
-    "SPRING 2024/PHIL 489",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 10/Class 27 - Advanced Rec Part 2.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 10/Class 26 - Advanced Rec.md",
@@ -201,11 +207,6 @@
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 12- More ML Ranking.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 11 - Start ML Ranking.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 10 - NDCG.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Class 09 - Evaluation.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 3/Class 08 - End TF-IDF.md",
-    "Pasted image 20231210180316.png",
-    "Pasted image 20231210170232.png",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 4/Pasted image 20231209162505.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
