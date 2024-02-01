@@ -1,13 +1,6 @@
 # Chapter 1
 **Mirror, Mirror on the wall**
 ****
-## Notes
-
-> Darwin and Freud dethroned our beliefs of exceptionalism, our feelings of superiority, and our fantasies of control; today, artificial intelligence seems to deal yet another blow to humanity's self image.
-> **(Pg. 2, P. 2)**
-
-This is going to be especially the case now that AI can create art, something we used to believe was very uniquely human.
-How do we begin to redefine our humanity to these new parameters?
 
 ## Summary
 The chapter introduces the main themes and questions of the book, which explores the ethical and social implications of artificial intelligence (AI).
@@ -15,6 +8,15 @@ The author argues that AI is not only a technical phenomenon, but also a cultura
 The chapter outlines the structure and content of the book, which consists of four parts: (1) AI and ethics, (2) AI and society, (3) AI and human nature, and (4) AI and the future. 
 The chapter also explains the author’s approach and methodology, which combines philosophical analysis, empirical research, and normative reflection.
 The chapter concludes by inviting the reader to engage in a critical and constructive dialogue about AI and its ethical and social challenges.
+
+
+## Notes
+
+> Darwin and Freud dethroned our beliefs of exceptionalism, our feelings of superiority, and our fantasies of control; today, artificial intelligence seems to deal yet another blow to humanity's self image.
+> **(Pg. 2, P. 2)**
+
+This is going to be especially the case now that AI can create art, something we used to believe was very uniquely human.
+How do we begin to redefine our humanity to these new parameters?
 
 # Chapter 2
 **Super intelligence, monsters, and the AI apocalypse**
