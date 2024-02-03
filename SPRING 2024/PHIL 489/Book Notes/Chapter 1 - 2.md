@@ -22,7 +22,6 @@ How do we begin to redefine our humanity to these new parameters?
 **Super intelligence, monsters, and the AI apocalypse**
 ****
 ## Summary
-The chapter examines the popular and influential narratives of superintelligence, transhumanism, and the AI apocalypse, which envision a future where AI surpasses human intelligence and capabilities, and poses an existential threat to humanity. 
 The author traces the origins and influences of these narratives, which often draw on religious and philosophical concepts of transcendence, singularity, and eschatology. 
 The author also critiques these narratives, arguing that they are based on questionable assumptions, exaggerate the risks and benefits of AI, and distract from the more urgent and realistic ethical and social issues of AI. 
 The author suggests that we need to look beyond these narratives, and explore alternative ways of imagining and relating to AI, such as those found in other cultural and historical contexts.
