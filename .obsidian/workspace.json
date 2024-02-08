@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING 2024/CSCE 454 Design Notebook/6 Feb - 12.md",
+                "file": "SPRING 2024/PHIL 489/Lecture Notes/Day 4 - Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ed5ddd9baf4c634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPRING 2024/PHIL 489/Lecture Notes/Day 5- Training Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPRING 2024/CSCE 454 Design Notebook/6 Feb - 12.md",
+                "file": "SPRING 2024/PHIL 489/Lecture Notes/Day 5- Training Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPRING 2024/CSCE 454 Design Notebook/6 Feb - 12.md",
+                "file": "SPRING 2024/PHIL 489/Lecture Notes/Day 5- Training Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING 2024/CSCE 454 Design Notebook/6 Feb - 12.md"
+                "file": "SPRING 2024/PHIL 489/Lecture Notes/Day 5- Training Neural Networks.md"
               }
             }
           },
@@ -172,13 +184,19 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "615fe5efad1d043f",
+  "active": "7ed5ddd9baf4c634",
   "lastOpenFiles": [
-    "SPRING 2024/PHIL 489/Lecture Notes/Day 4 - Machine Learning.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Pasted image 20231210175342.png",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 30 - Language Models.md",
+    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
+    "SPRING 2024/PHIL 489/Lecture Notes/Day 5- Training Neural Networks.md",
     "SPRING 2024/CSCE 454 Design Notebook/6 Feb - 12.md",
+    "SPRING 2024/PHIL 489/Lecture Notes/Day 4 - Machine Learning.md",
+    "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md",
     "SPRING 2024/CSCE 454 Design Notebook",
     "SPRING 2024/PHIL 489/Lecture Notes/Day 3 - Going Over AI Ethics 2-6.md",
-    "SPRING 2024/PHIL 489/Book Notes/Chapter 2-3.md",
     "SPRING 2024/PHIL 489/Book Notes/Chapter 1 - 2.md",
     "SPRING 2024/PHIL 489/Book Notes",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 02.md",
@@ -190,9 +208,6 @@
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture02",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Lecture 01 - Transistors.md",
     "SPRING 2024/PHIL 489/Lecture Notes/Day 2 - Technology and Ethics.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 30 - Language Models.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 29 - LLMs Start.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 12/Class 32 - LLMs4Us.md",
     "SPRING 2024/PHIL 489/Lecture Notes/Day 1 - Basics of Ethics.md",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture01/Fig0-MosSwitches.png",
     "SPRING 2024/ECEN 454 - Digital Circuit Design/Assets/Lecture01",
@@ -206,7 +221,6 @@
     "Fall 2023",
     "FALL 2024",
     "Pasted image 20240123103849.png",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Class 31 - LLMs, cont..md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 10/Class 27 - Advanced Rec Part 2.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 10/Class 26 - Advanced Rec.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Class 25 - Beyond DESM.md",
@@ -216,10 +230,7 @@
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 8/Class 22 - word2vec.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 6/Class 16 - Latent Factors.md",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 6/Class 15 - Collab Filtering.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 11/Pasted image 20231210175342.png",
     "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 9/Pasted image 20231210165742.png",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 14 - Recommenders.md",
-    "Fall 2023/CSCE 470 - Info Storage and Retrieval/Week 5/Class 13 - Learning To Rank.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
