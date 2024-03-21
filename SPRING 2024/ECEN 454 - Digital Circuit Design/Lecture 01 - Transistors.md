@@ -26,7 +26,7 @@ CMOS transistors are used together to create logic gates - the foundation of log
 
 ## Detailed Masks Views:
 Six masks (from top to bottom):
-- n-well (body)
+- p-substrate + n-well (body)
 - thin gate oxide
 - polysilicon
 - n+ diffusion
